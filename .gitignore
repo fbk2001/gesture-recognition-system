@@ -1,0 +1,8 @@
+Video.avi
+*.pyc
+__pycache__/
+.env
+.vscode/
+.idea/
+*.log
+.DS_Store

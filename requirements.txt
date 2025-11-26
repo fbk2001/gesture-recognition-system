@@ -1,0 +1,9 @@
+numpy>=1.21
+opencv-contrib-python>=4.6.0
+mediapipe>=0.10
+PyQt5>=5.15
+protobuf>=3.20.0
+absl-py>=1.0.0
+setuptools
+wheel
+
